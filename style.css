@@ -3,7 +3,7 @@
     margin: 200px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 0.5fr 3fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 0.5fr 2fr 1fr 1fr 1fr 1fr;
     color: aliceblue;
     background-color: rgb(1, 1, 11);
 }
