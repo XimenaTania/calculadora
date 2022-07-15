@@ -8,6 +8,10 @@
     background-color: rgb(1, 1, 11);
 }
 
+body {
+    background-color: rgb(185, 155, 207);
+}
+
 .marca {
     grid-template-rows: minmax(20px, 5px);
     margin-top: 30px;
