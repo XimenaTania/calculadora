@@ -6,6 +6,11 @@
     grid-template-rows: 0.5fr 2fr 1fr 1fr 1fr 1fr;
     color: aliceblue;
     background-color: rgb(1, 1, 11);
+    display: flexbox;
+}
+
+body {
+    background-color: rgb(185, 155, 207);
 }
 
 .marca {
